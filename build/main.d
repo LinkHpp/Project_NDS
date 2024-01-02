@@ -1,4 +1,4 @@
-main.o: /home/linkhpp/Documentos/nds/Project_DS/source/main.c \
+main.o: /home/linkhpp/NDS/Project_NDS/source/main.cpp \
  /opt/devkitpro/libnds/include/nds.h \
  /opt/devkitpro/libnds/include/nds/libversion.h \
  /opt/devkitpro/libnds/include/nds/ndstypes.h \
@@ -75,7 +75,12 @@ main.o: /home/linkhpp/Documentos/nds/Project_DS/source/main.c \
  /opt/devkitpro/nflib/include/nf_sprite3d.h \
  /opt/devkitpro/nflib/include/nf_text16.h \
  /opt/devkitpro/nflib/include/nf_text.h \
- /opt/devkitpro/nflib/include/nf_tiledbg.h
+ /opt/devkitpro/nflib/include/nf_tiledbg.h \
+ /opt/devkitpro/libnds/include/maxmod9.h \
+ /opt/devkitpro/libnds/include/mm_types.h \
+ /home/linkhpp/NDS/Project_NDS/build/soundbank.h \
+ /home/linkhpp/NDS/Project_NDS/build/soundbank_bin.h \
+ /opt/devkitpro/libnds/include/filesystem.h
 /opt/devkitpro/libnds/include/nds.h:
 /opt/devkitpro/libnds/include/nds/libversion.h:
 /opt/devkitpro/libnds/include/nds/ndstypes.h:
@@ -153,3 +158,8 @@ main.o: /home/linkhpp/Documentos/nds/Project_DS/source/main.c \
 /opt/devkitpro/nflib/include/nf_text16.h:
 /opt/devkitpro/nflib/include/nf_text.h:
 /opt/devkitpro/nflib/include/nf_tiledbg.h:
+/opt/devkitpro/libnds/include/maxmod9.h:
+/opt/devkitpro/libnds/include/mm_types.h:
+/home/linkhpp/NDS/Project_NDS/build/soundbank.h:
+/home/linkhpp/NDS/Project_NDS/build/soundbank_bin.h:
+/opt/devkitpro/libnds/include/filesystem.h:
